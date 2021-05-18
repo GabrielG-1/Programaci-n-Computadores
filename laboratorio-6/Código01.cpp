@@ -1,5 +1,6 @@
+#include <stdio.h>
+int num;
 int main() {
-  int num;
   printf("Ingrese un número:");
   scanf("%d", &num);
   if (num %2 == 0){
