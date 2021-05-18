@@ -12,4 +12,3 @@ int main(){
     suma = numero1 + numero2;
     printf("El resultado de la suma entre %d y %d es %d\n", numero1, numero2, suma);
     return 0;
-}
